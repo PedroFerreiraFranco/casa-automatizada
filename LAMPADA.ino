@@ -2,8 +2,8 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "G(8)Pedro"    
-#define WIFI_PASS         "Pedro123"
+#define WIFI_SSID         "iPhone de Pedro"    
+#define WIFI_PASS         "FyuB-ZXQo-6GJD-Caqp"
 #define APP_KEY           "259f50d7-3382-4b5b-8511-26e452db7453"
 #define APP_SECRET       "a34a4f24-575d-4f7c-9916-303fa8d960fe-d90305fe-fcfd-44a3-a7ea-c2439d2195e5"
 
