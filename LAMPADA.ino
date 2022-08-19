@@ -15,12 +15,12 @@
 #include "SinricPro.h"
 #include "SinricProSwitch.h"
 
-#define WIFI_SSID         "Paiva"
-#define WIFI_PASS         "gabriel555"
-#define APP_KEY           "259f50d7-3382-4b5b-8511-26e452db7453"
-#define APP_SECRET        "a34a4f24-575d-4f7c-9916-303fa8d960fe-d90305fe-fcfd-44a3-a7ea-c2439d2195e5"
+#define WIFI_SSID         "iPhone de Pedro"
+#define WIFI_PASS         "pedro2003"
+#define APP_KEY           "73de56c5-363b-4f16-9219-e7617c87087d"
+#define APP_SECRET        "61a8cda5-92fb-4995-b92c-5c023d7f29ac-ac125d65-ce5a-43ec-8195-2f6c5311af6b"
 
-#define SWITCH_ID_1       "62755aeb1d6a67083b4af45b"
+#define SWITCH_ID_1       "62ffc022db270037341b8c60"
 #define RELAYPIN_1        16
 
 #define BAUD_RATE         115200                // Change baudrate to your need
